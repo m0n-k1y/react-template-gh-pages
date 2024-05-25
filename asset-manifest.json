@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.07c28771.css",
+    "main.js": "./static/js/main.9741ad6b.js",
+    "vendors~main.css": "./static/css/vendors~main.bf54574f.chunk.css",
+    "vendors~main.js": "./static/js/vendors~main.197882b4.chunk.js",
+    "index.html": "./index.html",
+    "precache-manifest.9836d9e6893d95e241ed99c2c824ca12.js": "./precache-manifest.9836d9e6893d95e241ed99c2c824ca12.js",
+    "service-worker.js": "./service-worker.js",
+    "service-worker.js.gz": "./service-worker.js.gz",
+    "static/css/main.07c28771.css.gz": "./static/css/main.07c28771.css.gz",
+    "static/css/vendors~main.bf54574f.chunk.css.gz": "./static/css/vendors~main.bf54574f.chunk.css.gz",
+    "static/js/main.9741ad6b.js.gz": "./static/js/main.9741ad6b.js.gz",
+    "static/js/vendors~main.197882b4.chunk.js.gz": "./static/js/vendors~main.197882b4.chunk.js.gz",
+    "static/media/login.less": "./static/media/login-bg.5825f033.svg",
+    "static/media/logo.png": "./static/media/logo.c9241552.png"
+  },
+  "entrypoints": [
+    "static/css/vendors~main.bf54574f.chunk.css",
+    "static/js/vendors~main.197882b4.chunk.js",
+    "static/css/main.07c28771.css",
+    "static/js/main.9741ad6b.js"
+  ]
+}
